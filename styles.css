@@ -1,8 +1,17 @@
 body{
     color:aqua;
-    background-color: black;
+    background-color: rgb(177, 27, 27)
+
+margin: 0px;
 } 
 
 header { 
-     border: solid 2px white;
+     border-bottom: solid 2px black
+
+     padding: 20px;
+
+font-size: 32px;
+
+color: yellow 
+
 }
