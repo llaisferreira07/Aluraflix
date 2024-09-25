@@ -1,17 +1,10 @@
+:root{
+    --cor-principal: pink;
+    --cor-secundaria: rgb(172, 167, 167);
+    --cor-botao: pink;
+    --cor-fundo:  black; 
+}
 body{
-    color:aqua;
-    background-color: rgb(177, 27, 27)
-
-margin: 0px;
-} 
-
-header { 
-     border-bottom: solid 2px black
-
-     padding: 20px;
-
-font-size: 32px;
-
-color: yellow 
-
+    background-color: var(--cor-fundo);
+    
 }
